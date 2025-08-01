@@ -1,0 +1,19 @@
+body {
+  background-color: #3D1B47;
+  font-color: #DDC6E4;
+}
+
+a {
+  text-decoration: none;
+  color: #D3B5DB;
+  transition: all 0.3s ease;
+  padding: 4px 8px;
+  border-radius: 0px;
+}
+
+a:hover {
+  background-color: #663375;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 25px;
+  transform: translateY(-2px);
+}
