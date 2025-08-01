@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&display=swap');
+
 body {
   background-color: #3D1B47;
   color: #DDC6E4;
+  font-family: 'Mozilla Headline', sans-serif;
 }
 
 a {
